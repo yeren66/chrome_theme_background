@@ -3,7 +3,7 @@ chrome主题背景（夏日限定）
 
 ![图片](/1.png)
 
-# 设置步骤
+## 设置步骤
 1. 下载zip文件
 2. 打开chrome扩展程序界面并选择开发者模式
 3. 将zip拖入chrome并确定
@@ -11,7 +11,7 @@ chrome主题背景（夏日限定）
 5. 将zip解压缩并将其设为新标签页的背景图
 6. 结束
 
-# setting steps
+## setting steps
 1. download the zip file
 2. open the extensions of chrome and make sure in developer mode
 3. drag the zip into chrome
